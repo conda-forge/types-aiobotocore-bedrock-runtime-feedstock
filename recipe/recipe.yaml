@@ -1,5 +1,5 @@
 context:
-  version: "3.7.0"
+  version: "3.9.1"
 
 package:
   name: types-aiobotocore-bedrock-runtime
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/types-aiobotocore-bedrock-runtime/types_aiobotocore_bedrock_runtime-${{ version }}.tar.gz
-  sha256: 9ab951a42d223b104e1718030ecd915378985ed2b8ec33f964ccfd4a5437aae3
+  sha256: 1539117ae3e6d6a554ae13b07f0d6587aa9d00b585fc861df74ecfb7eaf44a15
 
 build:
   number: 0
